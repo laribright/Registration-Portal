@@ -13,8 +13,6 @@ password: admin
 
 ### NODE.JS backend code is in API folder
 
-## Some pages might be slow, this is due to SSR, but blazing fast in production
-
 ## Improvements
 -Removing my mongoDB url string add adding in a dotenv file... I left it there for easy set-up and quick start
 
