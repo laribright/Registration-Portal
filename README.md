@@ -16,7 +16,7 @@ password: admin
 ## Improvements
 -Removing my mongoDB url string add adding in a dotenv file... I left it there for easy set-up and quick start
 
-- Password wasn't harsed, just like so not to work with much technologies
+- Password wasn't hased, just like so not to work with much technologies
 
 #####
 Didn't run test, best I can use for testing is React testing Library with Jest...
